@@ -4,3 +4,9 @@ Simple shopping cart app to practice redux
 ## Technologies:
 * React
 * Redux
+
+## Installation
+
+```
+npm install
+```
